@@ -1,2 +1,2 @@
 # aku-masih-pemula
-Berisi tentang tutorial yang aku ikutu dari WPU
+Berisi tentang tutorial yang aku ikuti dari WPU
